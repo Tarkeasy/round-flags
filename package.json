@@ -1,0 +1,24 @@
+{
+  "name": "round-flags",
+  "version": "0.0.1",
+  "description": "Round country flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarkeasy/round-flags.git"
+  },
+  "keywords": [
+    "flags",
+    "round-flags",
+    "country-flags"
+  ],
+  "author": "Taras Kulchytskyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tarkeasy/round-flags/issues"
+  },
+  "homepage": "https://github.com/Tarkeasy/round-flags#readme"
+}
