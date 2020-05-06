@@ -94,7 +94,7 @@ import IT from './flags/IT.svg'
 import JM from './flags/JM.svg'
 import JP from './flags/JP.svg'
 import JE from './flags/JE.svg'
-import JQ from './flags/JQ.svg'
+import JO from './flags/JO.svg'
 import KZ from './flags/KZ.svg'
 import KE from './flags/KE.svg'
 import KI from './flags/KI.svg'
@@ -202,6 +202,7 @@ import YE from './flags/YE.svg'
 import ZM from './flags/ZM.svg'
 import ZW from './flags/ZW.svg'
 import AX from './flags/AX.svg'
+import SA from './flags/SA.svg'
 
 export {
   EARTH,
@@ -300,7 +301,7 @@ export {
   JM,
   JP,
   JE,
-  JQ,
+  JO,
   KZ,
   KE,
   KI,
@@ -408,4 +409,5 @@ export {
   ZM,
   ZW,
   AX,
+  SA,
 }
