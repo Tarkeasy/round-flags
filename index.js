@@ -204,6 +204,7 @@ import ZW from './flags/ZW.svg'
 import AX from './flags/AX.svg'
 import SA from './flags/SA.svg'
 import SG from './flags/SG.svg'
+import RS from './flags/RS.svg'
 
 export {
   EARTH,
@@ -412,4 +413,5 @@ export {
   AX,
   SA,
   SG,
+  RS,
 }
