@@ -1,6 +1,6 @@
 {
   "name": "round-flags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Round country flags",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Tarkeasy/round-flags/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Tarkeasy"
   },
   "homepage": "https://github.com/Tarkeasy/round-flags#readme"
 }
