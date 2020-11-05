@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/Tarkeasy/round-flags/issues"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Tarkeasy"
-  },
   "homepage": "https://github.com/Tarkeasy/round-flags#readme"
 }
